@@ -17,7 +17,7 @@ int main()
    Ret = Divide(No1,No2);
 
     printf("No1 = %d \nNo2 = %d",No1,No2);  
-   printf("\n\nDivision  = %d",Ret);     //4
+   printf("\n\nDivision  = %d",Ret);     ///4
 
    getch();
    return 0;
