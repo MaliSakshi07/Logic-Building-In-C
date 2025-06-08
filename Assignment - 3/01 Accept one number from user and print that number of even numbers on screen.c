@@ -6,10 +6,10 @@ int main()
 {
     int No = 0;
 
-    printf("\nEnter a Number :");
+    printf("\nEnter a Number :");     //30
     scanf("%d",&No);
 
-    PrintEven(No);
+    PrintEven(No);        //30
 
     getch();
     return 0;
