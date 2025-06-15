@@ -14,7 +14,7 @@ int main()
 {
     int Value = 0, Ret = 0;
 
-    printf("\nEnter a Value :");
+    printf("\nEnter a Value :");        ///5
     scanf("%d",&Value);
 
     Ret = SquareArea(Value);
