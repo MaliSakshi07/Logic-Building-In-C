@@ -30,7 +30,7 @@ int main()
 
     Ret = Factorial(No);
 
-    printf("\nOdd Factorial Of Given Number : %d",Ret);
+    printf("\nOdd Factorial Of Given Number : %d", Ret);
 
     getch();
     return 0;
