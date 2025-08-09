@@ -12,7 +12,6 @@ void Pattern(int Value)
     ch++;
   }
 }
-
 int main()
 {
   int Size = 0;
