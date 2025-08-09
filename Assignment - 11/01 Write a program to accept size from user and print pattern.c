@@ -21,6 +21,5 @@ int main()
   scanf("%d",&Size);
 
   Pattern(Size);
-
   return 0;
 }
