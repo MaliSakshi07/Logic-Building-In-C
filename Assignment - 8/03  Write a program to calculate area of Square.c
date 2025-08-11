@@ -9,7 +9,6 @@ int SquareArea(int A)
 
     return Area;
 }
-
 int main()
 {
     int Value = 0, Ret = 0;
