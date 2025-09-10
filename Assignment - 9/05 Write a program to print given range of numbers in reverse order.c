@@ -23,6 +23,7 @@ int main()
     scanf("%d",&E_No);
 
     Ret = Reverse(S_No, E_No);
+    
     getch();
     return 0;
 }
