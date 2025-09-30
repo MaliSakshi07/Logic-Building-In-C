@@ -11,7 +11,7 @@ void Pattern(int Value)
     printf(" %c # ",ch);
     ch++;
   }
-}
+
 int main()
 {
   int Size = 0;
